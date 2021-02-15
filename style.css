@@ -1,0 +1,74 @@
+/* *{
+    border: groove;
+} */
+
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grid img{
+    border: 2px groove black;
+    border-radius: 50px;
+    /* flex-wrap: wrap; */
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    /* width: 310px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10/2px;
+    padding: 12px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: wheat;
+    
+}
+
+.camel{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.chameleon{
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.cicada{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.panda{
+    background-color: white;
+    border-radius: 20px;
+}
+.pigeon{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.teddy{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.links{
+    display: flex;
+    margin-left: 50%;
+}
+
+.aboutUs{
+    margin: 10px;
+    padding: 10px;
+}
+
+.followUs{
+    margin: 10px;
+    padding: 10px;
+}
